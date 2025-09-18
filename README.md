@@ -19,7 +19,7 @@
 - **Performans:** Mükemmel tespit başarısı
 
 ### 👥 İnsan Tespiti  
-![İnsan Tespiti](C:\Users\ekol\Pictures\yolo\insan.png)
+
 - **Tespit Edilen:** 2 kişi
 - **Model:** YOLOv8m
 - **Confidence:** 0.5
@@ -35,7 +35,7 @@
 ---
 
 ## 🎯 Proje Özellikleri
-
+"C:\Users\ekol\Pictures\yolo\insan.png"
 ### ⚡ Tesla T4 Optimizasyonları
 - **FP16 Mixed Precision:** %40 hız artışı
 - **CUDA Tensor Core:** Hardware acceleration
