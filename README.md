@@ -11,22 +11,23 @@
 
 ## 📸 Demo Sonuçları
 
+
 ### 🚗 Araç Tespiti
-![Araç Tespiti](C:\Users\ekol\Pictures\yolo\araba.png)
+![Araç Tespiti](araba.png)
 - **Tespit Edilen:** 20 araç
 - **Model:** YOLOv8m
 - **Confidence:** 0.5
 - **Performans:** Mükemmel tespit başarısı
 
 ### 👥 İnsan Tespiti  
-
+![İnsan Tespiti](insan.png)
 - **Tespit Edilen:** 2 kişi
 - **Model:** YOLOv8m
 - **Confidence:** 0.5
 - **Özellik:** Yakın duran kişileri ayrı ayrı tespit etti
 
 ### 🐕🐱 Hayvan Tespiti
-![Kedi-Köpek Tespiti](C:\Users\ekol\Pictures\yolo\kediköpek.png)
+![Kedi-Köpek Tespiti](kediköpek.png)
 - **Tespit Edilen:** 4 hayvan (2 köpek, 2 kedi)
 - **Model:** YOLOv8m  
 - **Confidence:** 0.5
