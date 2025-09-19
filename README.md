@@ -341,10 +341,4 @@ Bu proje şu harika açık kaynak projeler sayesinde mümkün oldu:
 ---
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
-
-**🔄 Güncellemeler için projeyi takip edin!**
-
 ---
-
-*Son güncellenme: 2024-12-19*  
-*Tesla T4 YOLO Nesne Tespiti v1.0*
